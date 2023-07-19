@@ -3,7 +3,7 @@
 <h3 align="center">I call my projects phantom</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phantomlurkzy&label=Profile%20views&color=0e75b6&style=flat" alt="phantomlurkzy" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=phantomlurkzy&theme=onedark,Followers&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=phantomlurkzy&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **phantom**
 - 🌱 I’m currently learning **C++**
