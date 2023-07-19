@@ -18,9 +18,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+
+<img align="left" alt="VS2019" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png"/>
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
 <img src="https://i.imgur.com/S5btSbm.png" alt="GameScript" width="40" height="40"/>
+<img align="left" alt="IDA" width="35px" src="https://www.saashub.com/images/app/service_logos/19/1e0d827a9c4c/large.png?1541972415" />
+<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Git" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img align="left" alt="ReClass.Net" width="35px" src="https://avatars.githubusercontent.com/u/36203059?s=200&v=4" />
 </p>
 
 <h3 align="left">Stars</h3>
