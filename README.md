@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on **phantom**
 - 🌱 I’m currently learning **C++**
+- ⚡ Fun fact I have an orange cat named Candy Corn
 
 <div> <a href="https://twitter.com/Lurkzy" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/phantomlurkzy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
